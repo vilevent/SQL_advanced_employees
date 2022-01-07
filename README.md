@@ -4,7 +4,7 @@
 ### Script for creating tables and inserting data for employees database
 The source is from this [repository](https://github.com/ofenloch/mysql-employees). The course condensed the relevant DDL and DML statements for each of the tables in one file: `employees.sql`
 
-### Database schema from MySQL Workbench
+### Database schema
 ![employees_schema](https://user-images.githubusercontent.com/96803412/148616452-8fe9a04f-70a2-49f5-8e78-a123eef2158f.png)
 
 
