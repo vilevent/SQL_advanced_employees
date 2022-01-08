@@ -2,7 +2,7 @@
 > Exercises from Udemy's "SQL - MySQL for Data Analytics and Business Intelligence" course
 
 ### Script for creating tables and inserting data for employees database
-The source is from this [repository](https://github.com/ofenloch/mysql-employees). The course condensed the relevant DDL and DML statements for each of the tables in one file: `employees.sql`
+The source is from this [repository](https://github.com/ofenloch/mysql-employees). From that `employees.sql` file, the course used only the six tables below.
 
 ### Database schema
 ![employees_schema](https://user-images.githubusercontent.com/96803412/148616452-8fe9a04f-70a2-49f5-8e78-a123eef2158f.png)
