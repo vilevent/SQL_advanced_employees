@@ -1,7 +1,7 @@
 # MySQL, Employees DB
 > Exercises from Udemy's "SQL - MySQL for Data Analytics and Business Intelligence" course
 
-### Script for creating tables and inserting data for employees database
+### Script for creating the employees database
 The source is from this [repository](https://github.com/ofenloch/mysql-employees). From that `employees.sql` file, the course used only the six tables below.
 
 ### Database schema
