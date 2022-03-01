@@ -48,8 +48,8 @@ Now, with `idx_last_name_employees` added to the database, let's view the Query 
 
 ![InkedCapture2_LI](https://user-images.githubusercontent.com/96803412/148618856-c7f1c40e-28eb-4e7c-9d51-7f84645af248.jpg)
 - As we can see, the number of rows examined by the query drastically decreased to 3,494. **That is a 98.8% decrease!**
-- We also should note that our index was used during query execution, which explains why there is no longer a full table scan.
-- If there were millions of records, we would clearly start to witness **faster data retrieval** when running queries that use last name for filtering records.
+- We also should note that our non-clustered index was used during query execution, which explains why there is no longer a full table scan.
+- If there were millions and millions of employee records, we would clearly start to witness **faster data retrieval** when running queries that use last name for filtering records.
 
 #### Execution plan:
 
